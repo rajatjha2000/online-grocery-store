@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Nestle Munch 202g",
+        "price": 80,
+        "image": { "fields": { "file": { "url": "./images/snacks/munch.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Parle Hide & Seek",
+        "price": 80,
+        "image": { "fields": { "file": { "url": "./images/snacks/hideseek.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Kit Kat Wafer 126g",
+        "price": 84,
+        "image": { "fields": { "file": { "url": "./images/snacks/kitkat.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Sunfeast Yippee",
+        "price": 45,
+        "image": { "fields": { "file": { "url": "./images/snacks/yippee.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Parle-G Buiscuits ",
+        "price": 63,
+        "image": { "fields": { "file": { "url": "./images/snacks/parleg.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": " Parle Krack Jack 400g",
+        "price": 54,
+        "image": { "fields": { "file": { "url": "./images/snacks/krackjack.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Top Ramen Noodles",
+        "price": 49,
+        "image": { "fields": { "file": { "url": "./images/snacks/ramen.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Maggi Masala",
+        "price": 61,
+        "image": { "fields": { "file": { "url": "./images/snacks/maggi.jpg" } } }
+      }
+    }
+  ]
+}

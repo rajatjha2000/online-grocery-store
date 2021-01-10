@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Freshly Baked Bread",
+        "price": 19,
+        "image": { "fields": { "file": { "url": "./images/dairybake/bread.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Cheese Slices 180g",
+        "price": 97,
+        "image": { "fields": { "file": { "url": "./images/dairybake/cheese1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Amul Cow Ghee 1l",
+        "price": 450,
+        "image": { "fields": { "file": { "url": "./images/dairybake/ghee1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Cheese Slices(Plain) 476g",
+        "price": 180,
+        "image": { "fields": { "file": { "url": "./images/dairybake/cheese2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Nacho Cheese Dip 180g",
+        "price": 86,
+        "image": { "fields": { "file": { "url": "./images/dairybake/cheesedip.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": " Melto Cheese Slices 280g",
+        "price": 130,
+        "image": { "fields": { "file": { "url": "./images/dairybake/cheese3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Amul Dahi 1kg",
+        "price": 63,
+        "image": { "fields": { "file": { "url": "./images/dairybake/dahi.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Amul Pure Ghee 500ml",
+        "price": 220,
+        "image": { "fields": { "file": { "url": "./images/dairybake/ghee2.jpg" } } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Tide Detergent 200g",
+        "price": 72,
+        "image": { "fields": { "file": { "url": "./images/homecare/tide.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Ujala Whitener 250ml",
+        "price": 63,
+        "image": { "fields": { "file": { "url": "./images/homecare/ujala.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Lizol Disinfectant",
+        "price": 165,
+        "image": { "fields": { "file": { "url": "./images/homecare/lizol.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Surf Excel Bar 250g",
+        "price": 20,
+        "image": { "fields": { "file": { "url": "./images/homecare/excel.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Rin Bar 140g",
+        "price": 10,
+        "image": { "fields": { "file": { "url": "./images/homecare/rin.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": " Ghadi Detergent Bar 160g",
+        "price": 36,
+        "image": { "fields": { "file": { "url": "./images/homecare/ghadi.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Pril Dishwash Liquid 750ml",
+        "price": 149,
+        "image": { "fields": { "file": { "url": "./images/homecare/dishwash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Harpic Toile Cleaner",
+        "price": 80,
+        "image": { "fields": { "file": { "url": "./images/homecare/harpic.jpg" } } }
+      }
+    }
+  ]
+}

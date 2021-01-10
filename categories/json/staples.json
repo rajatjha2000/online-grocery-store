@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "India Gate Basmati 5kg",
+        "price": 349,
+        "image": { "fields": { "file": { "url": "./images/staples/rice1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "India Gate Basmati 1kg",
+        "price": 165,
+        "image": { "fields": { "file": { "url": "./images/staples/rice2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Basmati Biryani Rice",
+        "price": 119,
+        "image": { "fields": { "file": { "url": "./images/staples/rice3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Brown Rice 1kg",
+        "price": 135,
+        "image": { "fields": { "file": { "url": "./images/staples/brownrice.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Brown Rice Health Special 1kg",
+        "price": 115,
+        "image": { "fields": { "file": { "url": "./images/staples/brownrice2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": " Gulab Groudnut Oil 1l",
+        "price": 149,
+        "image": { "fields": { "file": { "url": "./images/staples/oil2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Quinoa Seeds 500g",
+        "price": 149,
+        "image": { "fields": { "file": { "url": "./images/staples/seeds.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Gulab Groudnut Oil 5l",
+        "price": 789,
+        "image": { "fields": { "file": { "url": "./images/staples/oil.jpg" } } }
+      }
+    }
+  ]
+}

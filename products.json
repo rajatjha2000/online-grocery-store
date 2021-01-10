@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "aashirwad aata 10kg",
+        "price": 374,
+        "image": { "fields": { "file": { "url": "./images/product/aata.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "amul butter",
+        "price": 225,
+        "image": { "fields": { "file": { "url": "./images/product/butter.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "kellogs corn flakes",
+        "price": 349,
+        "image": { "fields": { "file": { "url": "./images/product/cornflakes.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "gowardhan ghee",
+        "price": 495,
+        "image": { "fields": { "file": { "url": "./images/product/ghee.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "lifebuoy handwash",
+        "price": 189,
+        "image": { "fields": { "file": { "url": "./images/product/handwash.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "amul milk",
+        "price": 61,
+        "image": { "fields": { "file": { "url": "./images/product/milk.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "sunfeast yipee noodles",
+        "price": 34,
+        "image": { "fields": { "file": { "url": "./images/product/noodle.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "parle-g biscuits 1kg",
+        "price": 100,
+        "image": { "fields": { "file": { "url": "./images/product/parle.jpg" } } }
+      }
+    }
+  ]
+}

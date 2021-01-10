@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Sprite 1.75 L",
+        "price": 59,
+        "image": { "fields": { "file": { "url": "./images/beverages/sprite.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Tata Agni Tea 500g",
+        "price": 140,
+        "image": { "fields": { "file": { "url": "./images/beverages/tataagni.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Tata Premium Tea 500g",
+        "price": 225,
+        "image": { "fields": { "file": { "url": "./images/beverages/tatapremium.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Thums Up 1.75 L",
+        "price": 59,
+        "image": { "fields": { "file": { "url": "./images/beverages/thumsup.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Horlicks 1kg",
+        "price": 385,
+        "image": { "fields": { "file": { "url": "./images/beverages/horlicks.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Bournvita 500g",
+        "price": 188,
+        "image": { "fields": { "file": { "url": "./images/beverages/bournvita.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Coca Cola 1.75 L",
+        "price": 55,
+        "image": { "fields": { "file": { "url": "./images/beverages/cocacola.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Nescafe Coffee 100g",
+        "price": 245,
+        "image": { "fields": { "file": { "url": "./images/beverages/coffee.jpg" } } }
+      }
+    }
+  ]
+}

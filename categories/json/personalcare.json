@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Colgate Toothpaste",
+        "price": 73,
+        "image": { "fields": { "file": { "url": "./images/personalcare/colgate.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Vicks VapoRub 25ml",
+        "price": 67,
+        "image": { "fields": { "file": { "url": "./images/personalcare/vicks.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Dettol Liquid 1L",
+        "price": 313,
+        "image": { "fields": { "file": { "url": "./images/personalcare/dettolliquid.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Dettol Soap (Pack of 4)",
+        "price": 185,
+        "image": { "fields": { "file": { "url": "./images/personalcare/dettol.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Clinic Plus Shampoo",
+        "price": 180,
+        "image": { "fields": { "file": { "url": "./images/personalcare/clinicplus.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Sunsilk Shampoo",
+        "price": 185,
+        "image": { "fields": { "file": { "url": "./images/personalcare/sunsilk.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Stayfree Soft Cover",
+        "price": 175,
+        "image": { "fields": { "file": { "url": "./images/personalcare/stayfree.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Gillette Razor",
+        "price": 69,
+        "image": { "fields": { "file": { "url": "./images/personalcare/razor.jpg" } } }
+      }
+    }
+  ]
+}

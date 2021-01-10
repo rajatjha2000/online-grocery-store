@@ -1,0 +1,120 @@
+:root {
+  --primaryColor: #47ce5b;
+  --mainWhite: #fff;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --mainSpacing: 0.1rem;
+  --mainTransition: all 0.3s linear;
+}
+
+.cartbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 99999;
+  transition: 0.3s linear;
+  transform: scale(0);
+}
+.cartbox.active {
+  transform: scale(1);
+}
+.cartbox .cart {
+  position: relative;
+  height: 70%;
+  /* width: 80%; */
+  width: 55%;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: scroll;
+}
+.cartbox .cart .fa-close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: #f00;
+  padding: 10px 15px;
+  cursor: pointer;
+  color: #fff;
+}
+.cartbox .cart .fa-close:hover {
+  background: #ff0000a5;
+}
+
+.cartbox .cart h1 {
+  position: relative;
+  margin-top: 2%;
+  font-size: 2.8rem;
+  color: rgb(9, 92, 9);
+  font-weight: 700;
+}
+
+/*---------- Cart Item -------------------- */
+.cart-item {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 0fr 4fr 0fr;
+  /* grid-template-columns: auto 1fr auto; */
+  grid-column-gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+.cart-item img {
+  width: 75px;
+  height: 75px;
+}
+.cart-item h4 {
+  font-size: 0.85rem;
+  text-transform: capitalize;
+  letter-spacing: var(--mainSpacing);
+}
+.cart-item h5 {
+  margin: 0.5rem 0;
+  letter-spacing: var(--mainSpacing);
+}
+.item-amount {
+  text-align: center;
+}
+.remove-item {
+  color: grey;
+  cursor: pointer;
+}
+.fa-chevron-up,
+.fa-chevron-down {
+  color: var(--primaryColor);
+  cursor: pointer;
+}
+/*---------- End of Cart Item -------------------- */
+
+.cart-footer {
+  margin-top: 2rem;
+  letter-spacing: var(--mainSpacing);
+  text-align: center;
+}
+.cart-footer h3 {
+  text-transform: capitalize;
+  margin-bottom: 1rem;
+}
+
+.banner-btn {
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  font-size: 1rem;
+  background: var(--primaryColor);
+  color: var(--mainBlack);
+  border: 1px solid var(--primaryColor);
+  transition: var(--mainTransition);
+  cursor: pointer;
+}
+.banner-btn:hover {
+  background: whitesmoke;
+  color: black;
+}
+

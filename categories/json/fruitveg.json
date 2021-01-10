@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "onion 1kg",
+        "price": 49,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/onion.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Brinjal 500g",
+        "price": 20,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/brinjal.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Carrot 1kg",
+        "price": 39,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/carrot.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Watermelon 1pc",
+        "price": 30,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/watermelon.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Orange 1kg",
+        "price": 48,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/orange.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Pineapple 1pc",
+        "price": 54,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/pineapple.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Coconut 1pc",
+        "price": 34,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/coconut.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Tomato 1kg",
+        "price": 44,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/tomato.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Cauliflower 1kg",
+        "price": 19,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/cauliflower.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Apple 6pc",
+        "price": 159,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/apple.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Melon 1kg",
+        "price": 35,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/melon.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Broccoli 200g",
+        "price": 20,
+        "image": { "fields": { "file": { "url": "./images/fruitveg/broccoli.jpg" } } }
+      }
+    }
+  ]
+}

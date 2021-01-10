@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+:root {
+  --primaryColor: #47ce5b;
+  --mainWhite: #fff;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --mainSpacing: 0.1rem;
+  --mainTransition: all 0.3s linear;
+}
+
+body {
+  background-color: #fff;
+}
+/* --------------- Category & Products ---------------- */
+
+.products {
+  padding-top: 37rem;
+  padding-bottom: 10rem;
+}
+.section-title,
+.category-title {
+  margin: 0px 87px;
+}
+.section-title h2,
+.category-title h2 {
+  background-color: #8eef9d;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 5rem;
+  text-transform: capitalize;
+  letter-spacing: var(--mainSpacing);
+}
+.products-center,
+.category-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 2rem;
+}
+.img-container {
+  position: relative;
+  overflow: hidden;
+}
+.bag-btn {
+  position: absolute;
+  top: 70%;
+  right: 0;
+  background: var(--primaryColor);
+  border: none;
+  text-transform: uppercase;
+  padding: 0.5rem 0.75rem;
+  letter-spacing: var(--mainSpacing);
+  font-weight: bold;
+  transition: var(--mainTransition);
+  transform: translateX(101%);
+  cursor: pointer;
+}
+.bag-btn:hover {
+  color: var(--mainWhite);
+}
+
+.fa-shopping-cart {
+  margin-right: 0.5rem;
+}
+.img-container:hover .bag-btn {
+  transform: translateX(0);
+}
+@media screen and (max-width: 1100px) {
+  .bag-btn {
+    transform: translate(0);
+  }
+}
+.product-img,
+.category-img {
+  display: block;
+  width: 80%;
+  min-height: 12rem;
+  transition: var(--mainTransition);
+}
+.img-container:hover .product-img,
+.img-container:hover .category-img {
+  opacity: 0.5;
+}
+
+.product h3,
+.category h3 {
+  text-transform: capitalize;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  letter-spacing: var(--mainSpacing);
+  text-align: center;
+}
+
+.product h4 {
+  margin-top: 0.7rem;
+  letter-spacing: var(--mainSpacing);
+  color: var(--primaryColor);
+  text-align: center;
+}
+
+/* ---------------End of Category & Products ---------------- */
+
+#hero {
+  position: absolute !important;
+  width: 85% !important;
+  margin-left: 15%;
+  margin-bottom: -90px;
+  padding: 0 29px;
+}
+
+#hero .banner {
+  position: relative;
+  width: 100%;
+  height: calc(86vh - 50px);
+  background-color: #f5f5f5;
+  background-image: url("../images/fruitveg/fruitveg_bg.jpg");
+  background-size: cover;
+  background-position: center;
+  transition: all 0.1s ease-out;
+  animation: banner 28s infinite linear;
+}
+.banner-content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  background-color: rgba(0, 22, 40, 0.6);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 25px;
+}
+.banner-content h1 {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 30px;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+@media only screen and (max-width: 980px) {
+  #hero {
+    width: 100%;
+    margin-left: 0;
+  }
+}

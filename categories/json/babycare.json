@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Himalaya Baby Powder",
+        "price": 120,
+        "image": { "fields": { "file": { "url": "./images/babycare/powder.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Johnson's Baby Soap",
+        "price": 48,
+        "image": { "fields": { "file": { "url": "./images/babycare/babysoap.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Baby Cloth Wipes 80pcs",
+        "price": 115,
+        "image": { "fields": { "file": { "url": "./images/babycare/wipes.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Lactogen Powder 400g",
+        "price": 317,
+        "image": { "fields": { "file": { "url": "./images/babycare/milkpowder.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Vicks Baby Rub 25ml",
+        "price": 89,
+        "image": { "fields": { "file": { "url": "./images/babycare/babyvicks.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Himalaya Baby Cream",
+        "price": 220,
+        "image": { "fields": { "file": { "url": "./images/babycare/cream.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Nestle Cereal 300g",
+        "price": 258,
+        "image": { "fields": { "file": { "url": "./images/babycare/cereal.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Johnson's Baby Shampoo 100ml",
+        "price": 84,
+        "image": { "fields": { "file": { "url": "./images/babycare/babyshampoo.jpg" } } }
+      }
+    }
+  ]
+}
